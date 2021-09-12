@@ -1,0 +1,6 @@
+a=dict([[1,2],[2,3]])
+print(a)
+b=dict([(8,5),(1,7)])
+print(b)
+c=dict([['hello','3']])
+print(c)

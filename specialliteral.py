@@ -1,0 +1,2 @@
+food=None
+print(food)

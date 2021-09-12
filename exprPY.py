@@ -1,0 +1,6 @@
+#a=("enter an exp:")
+#b=(a)
+#print(b)
+x=int(input("enter no:"))
+c=eval(5x**2+2y/x+y)
+print(c)
